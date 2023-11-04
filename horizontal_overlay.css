@@ -1,0 +1,58 @@
+/* list of people */
+ul.Voice_voiceStates__a121W {
+    display: flex;
+    height: fit-content;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 0;
+    justify-content: center;
+}
+
+/* profile */
+li.Voice_voiceState__OCoZh {
+    border-radius: 4px;
+    overflow: hidden;
+    width: 128px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
+/* profile pic */
+img.Voice_avatar__htiqH {
+    height: 100px;
+    width: 100px;
+    float: none;
+    margin: 0;
+}
+
+
+/* profile name div */
+div.Voice_user__8fGwX {
+    padding: 0;
+    min-height: 32px;
+    width: 100px;
+}
+
+/* profile name span */
+span.Voice_name__TALd9 {
+    border-radius: 0;
+    padding: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    word-break: break-word;
+    font-family: Bahnschrift, sans-serif;
+    font-size: 14px !important;
+    color: #FFFFFF !important;
+  text-shadow:
+    3px 0 black,
+    0 -3px black,
+    -3px 0 black,
+    0 3px black;
+    background-color: unset !important;
+}
